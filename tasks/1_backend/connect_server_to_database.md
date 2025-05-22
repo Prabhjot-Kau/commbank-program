@@ -13,7 +13,7 @@
 
 {
   "ConnectionStrings": {
-    "CommBank": "{CONNECTION_STRING}"
+    "CommBank": "{mongodb+srv://<db_username>:<db_password>@cluster0.jsnbzfe.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0}"
   }
 }
 ```
